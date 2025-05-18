@@ -1,8 +1,9 @@
 I have successfully implemented the code, and the results are as follows. 
 
-<img width="653" alt="23c331043837841cc65ca53baf014ee" src="https://github.com/user-attachments/assets/825ac104-fff4-4d55-b4f9-d6a852cddf70" />
+![image](https://github.com/user-attachments/assets/c34cede4-81a6-46ed-a9e8-7ec1b92099db)
 
 If you need the code or programming assistance, please contact me on WeChat lqs_8023 or phone 18711839961
+I am highly proficient in OpenMP, MPI, POSIX, OpenCL, CUDA, SIMD, assembly language, and can provide assistance with all of them.
 
 
 # Лабораторная Работа №2. Разработка многопоточного приложения средствами POSIX в ОС Linux или Mac OS

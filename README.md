@@ -1,6 +1,6 @@
 I have successfully implemented the code, and the results are as follows. 
 
-![image](https://github.com/user-attachments/assets/c34cede4-81a6-46ed-a9e8-7ec1b92099db)
+<img width="653" alt="0c866b11f7d00416a0fce24d835a6bb" src="https://github.com/user-attachments/assets/eeb0fc3b-7d60-491d-83e4-95b519ebd2d5" />
 
 If you need the code or programming assistance, please contact me on WeChat lqs_8023 or phone 18711839961
 I am highly proficient in OpenMP, MPI, POSIX, OpenCL, CUDA, SIMD, assembly language, and can provide assistance with all of them.
